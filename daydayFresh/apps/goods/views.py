@@ -5,4 +5,4 @@ from django.shortcuts import render
 def index(request):
     return render(request, 'index.html')
 
-
+# git修改URL情况下，本地修改view
