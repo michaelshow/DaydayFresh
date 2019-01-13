@@ -10,3 +10,4 @@ from apps.goods import views
 urlpatterns = [
     url(r'^$', views.index, name='index'),
 ]
+# 修改第一次测试
