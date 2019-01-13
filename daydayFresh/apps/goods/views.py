@@ -6,4 +6,3 @@ def index(request):
     return render(request, 'index.html')
 
 
-# Git端修改测试
