@@ -9,3 +9,6 @@ print(a.name)
 print(a.age)
 print('-----')
 print('+++++')
+
+class dog():
+    print('a dog')
