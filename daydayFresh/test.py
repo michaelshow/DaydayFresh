@@ -7,3 +7,5 @@ class test():
 a = test()
 print(a.name)
 print(a.age)
+print('-----')
+print('+++++')
